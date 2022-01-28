@@ -1,0 +1,9 @@
+# Database directory
+privatedb*/
+p2pstore*/
+
+# snapshot dir
+snapshots/
+
+# OSX related files
+.DS_Store
